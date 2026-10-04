@@ -8,14 +8,6 @@
 - **BR-02:** Member mendapat tambahan diskon 5% jika BR-01 terpenuhi.
 - **BR-03:** Total potongan maksimal Rp25.000.
 
-## DECOMPOSITION
-
-Program dibagi menjadi 3 fungsi:
-
-- `hitungPersenDiskon()` → Menentukan persen diskon berdasarkan total belanja dan status member.
-- `hitungPotongan()` → Menghitung nominal potongan dan membatasi maksimal Rp25.000.
-- `hitungTotalBayar()` → Menghitung total pembayaran setelah diskon.
-
 ## SOURCE CODE
 
 ```dart
